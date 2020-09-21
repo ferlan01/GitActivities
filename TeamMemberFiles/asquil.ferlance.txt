@@ -1,0 +1,5 @@
+Asquil Ferlance.
+I'm good with being called Asquil.
+I am a COMP 294 student.
+My preferred tech stack is Adobe CF with MS SQL Server. I use a CSS library on the front end, but I have plans of exploring a reactive framework.
+Angula and .NET are both pretty fresh to me, but I'm willing to do what I need to give a solid contribution to the team.
